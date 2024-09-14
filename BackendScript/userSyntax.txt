@@ -1,0 +1,20 @@
+user_id
+displayName
+fullName
+firstName
+lastName
+email
+age
+contactList
+
+instagramUsername
+instagramData [] (populated when username given when a REAL USER ONLY) 
+tiktokUsername
+tiktokData [] (populated when username given REAL USER ONLY)
+
+linkdinUsername
+linkdinData [] (populated when username given) (REAL USER ONLY)
+job <can get filled by linkdinData> if linkdinusername is given (REAL USER ONLY)
+company <can get filled by linkdinData> (REAL USER ONLY)
+
+
